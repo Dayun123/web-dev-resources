@@ -2,6 +2,12 @@
 
 A set of resources I have found useful in my web development journey thus far.
 
+## General
+
+[Awesome Falsehoods](https://github.com/jameslk/awesome-falsehoods)
+
+- A curated list of awesome articles about falsehoods programmers make about things which are simply untrue.
+
 ## JavaScript
 
 [javascript.info](https://javascript.info/)
