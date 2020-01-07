@@ -37,3 +37,9 @@ A set of resources I have found useful in my web development journey thus far.
 [WebDev Trick](https://webdevtrick.com/web-development/javascript/)
 
 - Gallery of small JavaScript projects that have short demos and explanations. Great for getting inspired or learning new tricks.
+
+## HTML
+
+[Dive Into HTML5](http://diveintohtml5.info/index.html)
+
+- Very cool online book devoted to exploring features of HTML5.
