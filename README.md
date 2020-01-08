@@ -56,3 +56,9 @@ A set of resources I have found useful in my web development journey thus far.
 [Dive Into HTML5](http://diveintohtml5.info/index.html)
 
 - Very cool online book devoted to exploring features of HTML5.
+
+## CSS
+
+[Learn CSS The Pedantic Way](http://book.mixu.net/css/)
+
+- As the title states, a pedantic treatment of CSS. I love it, goes in-depth and looks at CSS from a programmer's point of view.
