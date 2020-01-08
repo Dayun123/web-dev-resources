@@ -20,6 +20,10 @@ A set of resources I have found useful in my web development journey thus far.
 
 - Great reference material, tutorials, API docs, everything you need to understand web dev.
 
+[Joel On Software](https://www.joelonsoftware.com/)
+
+- Great blog from the guy who founded StackOverflow.
+
 ## JavaScript
 
 [javascript.info](https://javascript.info/)
