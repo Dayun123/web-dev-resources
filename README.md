@@ -24,6 +24,10 @@ A set of resources I have found useful in my web development journey thus far.
 
 - Great blog from the guy who founded StackOverflow.
 
+[Contributing to Open Source on GitHub](https://www.sammyk.me/how-to-contribute-to-an-open-source-project-on-github)
+
+- Nice explanation of how to contribute to open source projects on GitHub.
+
 ## JavaScript
 
 [javascript.info](https://javascript.info/)
