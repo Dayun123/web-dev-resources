@@ -12,15 +12,20 @@ A set of resources I have found useful in my web development journey thus far.
 
 - Not exactly web focused, but looks amazing. Very deep stuff, some free lessons, but the core of the site is based on a $29 per-month subscription.
 
+[WHATWG HTML Spec](https://html.spec.whatwg.org/)
+
+- Not light reading, but a good reference to be aware of and to consult, especially when you are making a deep-dive into a topic.
+
+[MDN docs](https://developer.mozilla.org/en-US/)
+
+- Great reference material, tutorials, API docs, everything you need to understand web dev.
+
 ## JavaScript
 
 [javascript.info](https://javascript.info/)
 
 - In-depth reference to all things JavaScript. Includes a massive section on the JavaScript language, along with another large section on JavaScript in the browser. Should be a resource that is always consulted.
 
-[MDN docs](https://developer.mozilla.org/en-US/docs/Web/javascript)
-
-- Great reference material, tutorials, etc... Packed with examples and a complete reference to JS API's.
 
 [Mastering JS](https://masteringjs.io/)
 
