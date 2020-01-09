@@ -54,6 +54,10 @@ A set of resources I have found useful in my web development journey thus far.
 
 - From the guy who found the 'good parts' of JavaScript.
 
+[Eric Elliot Book Recommendations](https://medium.com/javascript-scene/12-books-every-javascript-developer-should-read-9da76157fb3)
+
+- Eric writes amazing books about JavaScript, and this is a list of ones he finds worth reading.
+
 ## HTML
 
 [Dive Into HTML5](http://diveintohtml5.info/index.html)
