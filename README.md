@@ -58,6 +58,10 @@ A set of resources I have found useful in my web development journey thus far.
 
 - Eric writes amazing books about JavaScript, and this is a list of ones he finds worth reading.
 
+[You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+
+- Dive deep into the internals of JavaScript, free to read online. Second edition is in the works.
+
 ## HTML
 
 [Dive Into HTML5](http://diveintohtml5.info/index.html)
