@@ -28,6 +28,10 @@ A set of resources I have found useful in my web development journey thus far.
 
 - Nice explanation of how to contribute to open source projects on GitHub.
 
+[12-Factor App](https://12factor.net/)
+
+- Methodology for how to deploy SAAS apps, must-read for dev-ops/deployment information.
+
 ## JavaScript
 
 [javascript.info](https://javascript.info/)
