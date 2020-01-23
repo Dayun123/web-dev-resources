@@ -66,6 +66,10 @@ A set of resources I have found useful in my web development journey thus far.
 
 - Dive deep into the internals of JavaScript, free to read online. Second edition is in the works.
 
+[ExploringJS](https://exploringjs.com/)
+
+- Alex Rauschmayer's site with links to read many of his books for free.
+
 ## HTML
 
 [Dive Into HTML5](http://diveintohtml5.info/index.html)
