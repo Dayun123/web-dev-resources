@@ -70,6 +70,14 @@ A set of resources I have found useful in my web development journey thus far.
 
 - Alex Rauschmayer's site with links to read many of his books for free.
 
+[David Walsh Blog](https://davidwalsh.name/)
+
+- Great tutorials and blog posts on all things JS.
+
+[Derick Bailey Blog](https://derickbailey.com/)
+
+- More great JS content.
+
 ## HTML
 
 [Dive Into HTML5](http://diveintohtml5.info/index.html)
