@@ -78,6 +78,10 @@ A set of resources I have found useful in my web development journey thus far.
 
 - More great JS content.
 
+[Proxy Resources](https://github.com/mikaelbr/awesome-es2015-proxy)
+
+- Proxies are a really interesting JS language feature, and this repo has a bunch of examples about how to use them and about metaprogramming in JS in general.
+
 ## HTML
 
 [Dive Into HTML5](http://diveintohtml5.info/index.html)
