@@ -93,3 +93,7 @@ A set of resources I have found useful in my web development journey thus far.
 [Learn CSS The Pedantic Way](http://book.mixu.net/css/)
 
 - As the title states, a pedantic treatment of CSS. I love it, goes in-depth and looks at CSS from a programmer's point of view.
+
+[Simple CSS3 Transitions](https://www.webdesignerdepot.com/2014/05/8-simple-css3-transitions-that-will-wow-your-users/)
+
+- Some common use-cases for CSS transitions.
