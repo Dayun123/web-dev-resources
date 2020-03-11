@@ -82,6 +82,12 @@ A set of resources I have found useful in my web development journey thus far.
 
 - Proxies are a really interesting JS language feature, and this repo has a bunch of examples about how to use them and about metaprogramming in JS in general.
 
+### React
+
+[Formik](https://jaredpalmer.com/formik/docs/overview)
+
+- If you want to build forms in React, check out this library over using Redux-Form.
+
 ## HTML
 
 [Dive Into HTML5](http://diveintohtml5.info/index.html)
