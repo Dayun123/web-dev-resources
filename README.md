@@ -82,6 +82,10 @@ A set of resources I have found useful in my web development journey thus far.
 
 - Proxies are a really interesting JS language feature, and this repo has a bunch of examples about how to use them and about metaprogramming in JS in general.
 
+[Tyler McGinnis Site](https://tylermcginnis.com/)
+
+- Great blog content, and some solid looking courses as well.
+
 ### React
 
 [Formik](https://jaredpalmer.com/formik/docs/overview)
