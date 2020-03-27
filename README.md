@@ -86,6 +86,10 @@ A set of resources I have found useful in my web development journey thus far.
 
 - Great blog content, and some solid looking courses as well.
 
+[JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms)
+
+- A GitHub repo filled with examples of algorithms and data structures implemented in JavaScript.
+
 ### React
 
 [Formik](https://jaredpalmer.com/formik/docs/overview)
