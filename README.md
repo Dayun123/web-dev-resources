@@ -90,6 +90,10 @@ A set of resources I have found useful in my web development journey thus far.
 
 - A GitHub repo filled with examples of algorithms and data structures implemented in JavaScript.
 
+[Jonathan Lee Martin Site](https://jonathanleemartin.com/)
+
+- His book 'Functional Design Patterns in Express.js' is amazing, and there is a ton of great content on his site as well.
+
 ### React
 
 [Formik](https://jaredpalmer.com/formik/docs/overview)
